@@ -1,0 +1,17 @@
+{
+  "name": "node-client-sample",
+  "private": true,
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Qiming Zhao <chemzqm@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.0.6",
+    "neovim": "^3.5.2",
+    "typescript": "^2.8.3"
+  }
+}
